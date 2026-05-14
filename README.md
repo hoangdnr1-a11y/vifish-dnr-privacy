@@ -53,5 +53,4 @@ Chúng tôi cam kết tuân thủ nghiêm ngặt các tiêu chuẩn bảo mật 
 ## 5. Liên Hệ
 
 Nếu bạn có bất kỳ câu hỏi, thắc mắc hoặc cần hỗ trợ liên quan đến Chính sách Quyền Riêng Tư này, vui lòng liên hệ với nhóm phát triển dự án VIFISH DNR:
-- **Email hỗ trợ:** [Điền email của bạn tại đây]
-- **Điện thoại:** [Điền số điện thoại của bạn tại đây]
+- **Email hỗ trợ:** hoangdnr1@gmail.com
